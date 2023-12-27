@@ -1,0 +1,3 @@
+- list operations
+- probar con postman que se parsean bien los json de los campos json
+- ver como encryptar la credencial en la postgres con el dearmor
